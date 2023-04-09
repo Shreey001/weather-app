@@ -100,3 +100,27 @@ margin-top: -6px;
     margin-top: 10px;
     display: none;
 }
+
+
+/* --------------------responsive--------------- */
+
+@media screen and (max-width: 480px ){
+   
+   
+    .search input {
+        margin-left: px;
+        border: 0;
+        outline: 0;
+        background: #ebfffc;
+        color: #555;
+        padding: 2px 7px;
+        height: 60px;
+        border-radius: 62px;
+        margin-right: px;
+        font-size: 18px;
+    }
+
+    
+    }
+
+
